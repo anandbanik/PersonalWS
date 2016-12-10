@@ -25,7 +25,7 @@ import java.util.List;
 /*
 
 @author Anand Banik
-
+ Email: anandbanik@gmail.com
 */
 
 public class GmailQuickstart {
