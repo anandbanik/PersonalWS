@@ -22,6 +22,11 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/*
+
+@author Anand
+*/
+
 public class GmailQuickstart {
     /** Application name. */
     private static final String APPLICATION_NAME =
